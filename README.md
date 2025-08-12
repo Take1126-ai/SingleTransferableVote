@@ -1,2 +1,2 @@
-# SingleTransferableVoteManagement
-Single Transferable Vote Management
+# SingleTransferableVote
+Single Transferable Vote
